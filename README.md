@@ -8,7 +8,7 @@
 [Dayong Liang](https://github.com/YongLD)<sup>1,3,\*</sup>, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=en)<sup>2,\*</sup>, [Changmeng Zheng](https://github.com/thecharm)<sup>2,†</sup>
 
 <p><sup>1</sup>South China University of Technology &nbsp;&nbsp;<sup>2</sup>The Hong Kong Polytechnic &nbsp;&nbsp;<sup>3</sup>Peng Cheng Laboratory
-<br><sup>*</sup>Contributed equally to this work &nbsp;&nbsp; <sup>†</sup>Corresponding author
+<br><sup>*</sup>Contributed equally &nbsp;&nbsp; <sup>†</sup>Corresponding author
 <h5 align="center">
 
 <!-- [![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2403.14972) -->
