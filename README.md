@@ -5,9 +5,9 @@
     <b>Multi-agent Undercover Gaming</b>: Hallucination Removal via Counterfactual Test for Multimodal Reasoning
   </h1>
 
-[Dayong Liang](https://github.com/YongLD)<sup>1,3,\*</sup>, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=en)<sup>2,\*</sup>, [Changmeng Zheng](https://github.com/thecharm)<sup>2,†</sup>
+[Dayong Liang](https://github.com/YongLD)<sup>1,4,\*</sup>, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=en)<sup>2,3,4,\*</sup>, [Changmeng Zheng](https://github.com/thecharm)<sup>3,†</sup>
 
-<p><sup>1</sup>South China University of Technology &nbsp;&nbsp;<sup>2</sup>The Hong Kong Polytechnic &nbsp;&nbsp;<sup>3</sup>Peng Cheng Laboratory
+<p><sup>1</sup>South China University of Technology &nbsp;&nbsp;<sup>2</sup>Sichuan University &nbsp;&nbsp;<sup>3</sup>The Hong Kong Polytechnic &nbsp;&nbsp;<sup>4</sup>Peng Cheng Laboratory
 <br><sup>*</sup>Contributed equally &nbsp;&nbsp; <sup>†</sup>Corresponding author
 <h5 align="center">
 
