@@ -38,9 +38,17 @@
 
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): An open-source evaluation toolkit of large vision-language models (LVLMs).
 
-<!-- ## 📑 Citation
+## 📑 Citation
 
 If this repo is useful to you, please cite using this BibTeX.
 ```bibtex
-
-``` -->
+@misc{liang2025mug,
+      title={Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning}, 
+      author={Dayong Liang and Xiao-Yong Wei and Changmeng Zheng},
+      year={2025},
+      eprint={2511.11182},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.11182}, 
+}
+``` 
