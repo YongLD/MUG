@@ -2,7 +2,7 @@
 
 <h1>
     <img src="assets/logo.png" alt="Logo" width="40" style="vertical-align: middle;" /> 
-    <b>Multi-agent Undercover Gaming</b>: Hallucination Removal via Counterfactual Test for Multimodal Reasoning
+    <b>Multi-agent Undercover Gaming</b>: Hallucination Removal through Counterfactual Test for Multimodal Reasoning
   </h1>
 
 [Dayong Liang](https://github.com/YongLD)<sup>1,4,\*</sup>, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=en)<sup>2,3,4,\*</sup>, [Changmeng Zheng](https://github.com/thecharm)<sup>3,†</sup>
@@ -42,13 +42,10 @@
 
 If this repo is useful to you, please cite using this BibTeX.
 ```bibtex
-@misc{liang2025mug,
-      title={Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning}, 
-      author={Dayong Liang and Xiao-Yong Wei and Changmeng Zheng},
-      year={2025},
-      eprint={2511.11182},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2511.11182}, 
+@article{liang2025multi,
+  title={Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning},
+  author={Liang, Dayong and Wei, Xiao-Yong and Zheng, Changmeng},
+  journal={arXiv preprint arXiv:2511.11182},
+  year={2025}
 }
 ``` 
