@@ -25,7 +25,8 @@
 
 *Latest News* 🔥
 
-- 🔄 **Code Implementation**: In progress
+- 🔄 **Counterfactual Image Generation Pipeline**: In progress.
+- ✅ [2026/01] **Code Implementation**: Inference code is released.
 - ✅ [2025/11] **Paper Accepted**: Our paper has been accepted at AAAI2026! 🎉
 
 ## Features
@@ -33,6 +34,50 @@
 - Systematic counterfactual testing for hallucination detection
 - Dynamic cross-evidence reasoning capabilities
 - Active reasoning paradigms facilitating exploratory dialogue among agents
+
+## 🛠️ Installation
+To set up the environment for MUG, please follow the steps below. We recommend using Conda to manage your dependencies.
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/YongLD/MUG.git
+cd MUG
+```
+
+**2. Create a new Conda environment**
+```bash
+conda create -n mug python==3.12
+conda activate mug
+```
+
+**3. Install the dependencies**
+
+```bash
+pip install -e .
+```
+**4.Setup Qwen3 Environment**
+This project relies on Qwen2.5VL. You must install the dependencies required by the official Qwen3VL repository. Please refer to the [Qwen3VL GitHub Repository](https://github.com/QwenLM/Qwen3-VL) for the most up-to-date installation instructions.
+
+Generally, you will need to install the necessary libraries (like transformers, flash_attention, accelerate, torch, etc.) compatible with Qwen3VL.
+
+##🚀 Usage & Testing
+Once the environment is configured and the Qwen3 dependencies are installed, you can run the main testing script.
+
+Run the prediction script: 
+```bash
+sh predict.sh
+```
+
+## 📂 Counterfactual Data
+
+We provide access to a subset of our generated counterfactual images via Google Drive.
+
+- **Download Link**: [Google Drive Link](https://drive.google.com/drive/folders/1MpaSvRVG5wWqBMn0Yn3YUKFokaSXVXDw?usp=sharing)
+
+> ⚠️ **Note on Data Quality**:
+> The current batch of counterfactual images was generated using **Step1X-Edit**. Please note that the quality of these samples is preliminary and may be suboptimal.
+>
+> 🚀 **Future Plans**: We are actively working on utilizing more advanced generative models to produce high-quality counterfactual images. We will release these improved datasets along with the complete **Counterfactual Image Generation Pipeline** soon.
 
 ## ❤️ Acknowledgments
 

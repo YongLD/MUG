@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0,1" torchrun --nproc_per_node=2 --master_port=29501 run.py --data HallusionBench --model Qwen2.5-VL-7B-Instruct --judge exact_matching --agent_base --con-dir "/your/con_image/path"
