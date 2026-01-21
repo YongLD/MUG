@@ -60,7 +60,7 @@ This project relies on Qwen2.5VL. You must install the dependencies required by 
 
 Generally, you will need to install the necessary libraries (like transformers, flash_attention, accelerate, torch, etc.) compatible with Qwen3VL.
 
-##🚀 Usage & Testing
+## 🚀 Usage & Testing
 Once the environment is configured and the Qwen3 dependencies are installed, you can run the main testing script.
 
 Run the prediction script: 
